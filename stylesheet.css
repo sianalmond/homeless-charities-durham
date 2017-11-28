@@ -27,3 +27,6 @@ header{
   background-image:url('a.jpg');
   background-size:cover;
 }
+img{
+  width: 100%;
+}
