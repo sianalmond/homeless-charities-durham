@@ -6,8 +6,3 @@
 .nav {
   background-color: lightblue;
 }
-
-.navbar-expand-lg, .navbar-light, .bg-light
-.navbar-brand, .nav > li > a {
-  padding: 20px 20px;
-}
