@@ -1,9 +1,13 @@
 .main-body { 
-   background-image: url("https://soulreviver.org/image/slider/background.jpg");
+   background-color: lightblue;
    padding-top: 10px;
+}
+
+.nav {
+  background-color: lightblue;
 }
 
 .navbar-expand-lg, .navbar-light, .bg-light
 .navbar-brand, .nav > li > a {
-  padding: 50px 50px;
+  padding: 20px 20px;
 }
